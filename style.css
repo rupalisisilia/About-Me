@@ -15,12 +15,13 @@ ul{list-style-type: none;}
 	
 }
 .navbar .logo{
-	width: 20%;
-	height: 10%;
+	width: 5%;
+	height: 2%;
+	padding-top: 6px;
 	float: left;
 }
 .navbar .nav{
-	width: 80%;
+	width: 90%;
 	float: left;
 }
 .navbar .nav ul{
@@ -34,4 +35,19 @@ ul{list-style-type: none;}
 	background-color: greenyellow;
 	transition: 1s;
 
+}
+.bannar-section{
+	width: 100%;
+	overflow: hidden;
+	padding: 80px;
+	padding-bottom: 60px;
+}
+.bannar-section .img{
+	width: 40%;
+	height: 200px;
+	float: left;
+}
+.bannar-section .text{
+	width: 50%;
+	float: left;
 }
