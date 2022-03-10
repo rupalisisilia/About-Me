@@ -38,6 +38,9 @@ ul{list-style-type: none;}
 	transition: 1s;
 
 }
+p{
+	font-size: 15px;
+}
 .bannar-section{
 	background-color: rgba(248, 172, 244, 0.603);
 	width: 100%;
@@ -63,4 +66,28 @@ ul{list-style-type: none;}
 	border: none;
 	border-radius: 8px;
 	padding: 9px 25px;
-	
+}
+.top-section{
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+	padding: 20px;
+	padding-bottom: 60px;
+}
+.top-section .img-1{
+	width: 35%;
+	height: 450px;
+	padding-right: 50px;
+	float: left;
+}
+.top-section .text{
+	width: 25%;
+	float: left;
+}
+.top-section .img-2{
+	width: 35%;
+	height: 350px;
+	padding-left: 50px;
+	padding-top: 30px;
+	float: left;
+}	
