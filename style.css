@@ -40,16 +40,14 @@ ul{list-style-type: none;}
 }
 p{
 	font-size: 13px;
-	color: green;
+	
 }
 h1{
 	font-size: 40px;
-	color: orange;
 	text-align: center;
 	padding-bottom: 20px;
 }
 h3{
-	color: darkmagenta;
 	padding-top: 70px;
 	padding-bottom: 20px;
 }
