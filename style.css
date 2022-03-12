@@ -22,14 +22,12 @@ ul{list-style-type: none;}
 }
 .navbar .nav{
 	width: 90%;
-	
 	float: left;
 }
 .navbar .nav ul{
 	float: left;
 }
 .navbar .nav ul li{
-	
 	float: left;
 	padding: 27px 30px;
 }
@@ -68,6 +66,35 @@ h3{
 	width: 40%;
 	padding-top: 60px;
 	float: left;
+}
+.bond-section{
+	background-image: linear-gradient(45deg, skyblue, plum);
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+}
+.bond-section .btn{
+	width: 48%;
+	padding-top: 80px;
+	padding-right: 90px;
+	text-align: center;
+	float: left;
+}
+.bond-section .btn .link-button:hover{
+	text-decoration: none;
+	background-color: #000;
+	transition: 1s;
+	padding: 20px 50px;
+	border-radius: 30px;
+	color: white;
+}
+.bond-section .text{
+	width: 48%;
+	float: left;
+	padding-top: 80px;
+	padding-left: 90px;
+	font-size: 800px;
+	text-align: center;
 }
 .top-section{
 	background-color: rgb(216, 239, 240);
