@@ -40,7 +40,7 @@ ul{list-style-type: none;}
 
 }
 p{
-	font-size: 15px;
+	font-size: 18px;
 	
 }
 h1{
@@ -50,15 +50,16 @@ h1{
 }
 
 h3{
-	padding-top: 70px;
+	padding-top: 30px;
 	padding-bottom: 20px;
 }
+
 .bannar-section{
 	width: 100%;
 	height: 700px;
 	overflow: hidden;
 	padding: 20px;
-	padding-bottom: 90px;
+	
 }
 .bannar-section .img{
 	width: 50%;
@@ -106,32 +107,34 @@ h3{
 }
 .work-section{
 	width: 100%;
-	height: 900px;
+	height: 850px;
 	overflow: hidden;
 	margin-top: 50px;
 }
 .work-section h1{
-	padding-top: 50px;
+	padding-top: 20px;
 	
 } 
 .work-section .card{
-	width: 33%;
-	height: 800px;
+	width: 30%;
+	height: 700px;
 	overflow: hidden;
 	float: left;
-	margin-left: 2%;
+	margin-right: 10%;
 	box-shadow: 2px 2px 23px -2px rgba(0,0,0,0.5);
 }
-.work-section .wrapper{
-	margin-left: -2%;
-}
-	
 .work-section .card .text{
-    margin-left: 10px;
+    margin: 0px 10px 10px 10px;
+	text-align: justify;
 	padding-bottom: 30px;
 	
 }
 .work-section .card .text h4{
-	
+	padding-bottom: 30px;
+}
+.work-section .card .text p{
+	padding-bottom: 30px;
+}
+
 
 	
