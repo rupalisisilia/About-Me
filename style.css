@@ -132,7 +132,21 @@ h4{
 }
 .work-section .text{
 	margin-top: 20px;
+}
+.travel-section{
+	background-color: whitesmoke;
+	width: 100%;
+	height: 400px;
+	padding-top: 90px;
+	overflow: hidden;
 } 
+.travel-section{
+	text-align: center;
+	margin: auto;
+}
+.travel-section ul{
+	padding-bottom: 20px;
+}
 
 
 
