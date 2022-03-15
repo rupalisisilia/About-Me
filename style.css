@@ -169,6 +169,7 @@ h4{
 }
 .drem-section .text ul li{
 	padding-bottom: 20px;
+	list-style-type: disc;
 }
 .follo-section{
 	background-image: linear-gradient(aquamarine, skyblue );
